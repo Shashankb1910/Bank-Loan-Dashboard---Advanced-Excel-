@@ -13,7 +13,7 @@
 ## Objective:
 The primary goal of the Details Dashboard is to provide users with a comprehensive and user-friendly interface for accessing vital loan data. It serves as a one-stop solution for detailed insights into our loan portfolio, enabling informed decision-making.
 
-Explore the Details Dashboard now to gain valuable insights into our loan data!
+#### Explore the Details Dashboard now to gain valuable insights into our loan data!
 
 ## Screenshots 
 
