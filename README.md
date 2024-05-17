@@ -17,10 +17,10 @@ The primary goal of the Details Dashboard is to provide users with a comprehensi
 
 ## Screenshots 
 
-### Bank Loan | Overview
+### Bank Loan | Summary
 
 ![Screenshot 2024-02-20 225805](https://github.com/Shashankb1910/Power-Bi-Projects/assets/129300507/fe2f62eb-0afa-4b84-bc12-9b339b78045d)
 
-### Bank Loan | Summary 
+### Bank Loan | Overview
 
 ![Screenshot 2024-02-20 225717](https://github.com/Shashankb1910/Power-Bi-Projects/assets/129300507/3c8ad709-7959-4e9c-80d2-9c7ffcabcd56)
